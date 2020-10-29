@@ -3,7 +3,7 @@
   I'm focused in app development 📱. 
   
   I love coding and i'm travelling by this new universe since 2019, now i'm working and hard studying Dart & Flutter, this incredible tech created by the mother Google.
-  
+  :wolf:
   I also loves to play games, but now i'm a little rusty, my favorite games of all times are:
   
     - The witcher 3 :wolf:
