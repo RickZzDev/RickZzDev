@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rickzzdev" alt="rickzzdev" /></a> </p>
 
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/3ov9k1J6jahVhiev0Q/giphy.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://giphy.com/gifs/3ov9k1J6jahVhiev0Q/html5?raw=true" width="500" height="320" />
 
 - 🔭 I’m currently working on [Torcida Gamer](https://play.google.com/store/apps/details?id=br.com.torcidagamer)
 
