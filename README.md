@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact **I have a package on pub.dev, that's the link: https://pub.dev/packages/automatic_animated_chat**
 
-
+<h3 align="left">My trophies:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rickzzdev" alt="rickzzdev" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
