@@ -3,15 +3,11 @@
   I'm focused in app development 📱. 
   
   I love coding and i'm travelling by this new universe since 2019, now i'm working and hard studying Dart & Flutter, this incredible tech created by the mother Google.
-  :wolf:
+
   I also loves to play games, but now i'm a little rusty, my favorite games of all times are:
-  
     - The witcher 3 :wolf:
-    
-    - CS:GO;
-    
+    - CS:GO
     - Battlefield 4
-    
     - Even though i didn't played CyberPunk 2077, i now it will be in my list
     
   Besides games and coding, i really loves to travell, know new places, watch the sea and think how can i fix that bug or how i'm grateful to do what i love, watch movies, animes, animations, and of course, listen to lo-fi beats on Spotify.
