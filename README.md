@@ -6,7 +6,7 @@
   
   I also loves to play games, but now i'm a little rusty, my favorite games of all times are:
   
-    - The witcher 3
+    - The witcher 3 :wolf:
     
     - CS:GO;
     
