@@ -4,7 +4,7 @@
   
   I love coding and i'm travelling by this new universe since 2019, now i'm working and hard studying Dart & Flutter, this incredible tech created by the mother Google.
 
-  I also loves to play games, but now i'm a little rusty, my favorite games of all times are:
+  I also loves to play games, but now i'm a little rusty, my favorite games of all times are:\n
     - The witcher 3 :wolf:
     - CS:GO
     - Battlefield 4
