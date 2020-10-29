@@ -1,7 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm Carlos Henrique</h1>
 <h3 align="center">A passionate mobile developer from Brazil, São Paulo <3</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rickzzdev" alt="rickzzdev" /></a> </p>
 
 
   <img align="right" alt="GIF" src="https://github.com/RickZzDev/RickZzDev/blob/main/giphy.gif?raw=true" width="500" height="320" />
@@ -21,6 +20,9 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/carlos-henrique-simões-novais-955894182/](https://www.linkedin.com/in/carlos-henrique-simões-novais-955894182/)
 
 - ⚡ Fun fact **I have a package on pub.dev, that's the link: https://pub.dev/packages/automatic_animated_chat**
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rickzzdev" alt="rickzzdev" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
