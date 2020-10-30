@@ -25,7 +25,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/RickZzDev?tab=repositories](https://github.com/RickZzDev?tab=repositories)
 
-- 💬 Ask me about **Flutter, Dart, POO, Coding**
+- 💬 Ask me about **Flutter, Dart, POO, Coding, JS, Python, Django, and of course Marvel&DC**
 
 - 📫 How to reach me **rick_teloon@hotmail.com**
 
