@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning **All that i can in the mobile universe, having the flutter as the center.**
 
-- 🤝 I’m looking for help with [NuBank](https://github.com/nubank)
+- 🤝 I’m looking for help with [WeatherApp](https://github.com/RickZzDev/WeatherApp)
 
 - 👨‍💻 All of my projects are available at [https://github.com/RickZzDev?tab=repositories](https://github.com/RickZzDev?tab=repositories)
 
