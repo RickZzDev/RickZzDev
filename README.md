@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm Carlos Henrique</h1>
 <h3 align="center">A passionate mobile developer from Brazil, São Paulo <3</h3>
-  I'm focused in app development 📱. 
+  **I'm focused in app development 📱. 
   
   I love coding and i'm travelling by this new universe since 2019, now i'm working and hard studying Dart & Flutter, this incredible tech created by the mother Google.
 
@@ -10,7 +10,7 @@
     - Battlefield 4 :bomb: <br>
     - Even though i didn't played CyberPunk 2077, i now it will be in my list :robot: <br>
     
-  Besides games and coding, i really loves to travell, know new places, watch the sea and think how can i fix that bug or how i'm grateful to do what i love, watch movies, animes, animations, and of course, listen to lo-fi beats on Spotify.
+  Besides games and coding, i really loves to travell, know new places, watch the sea and think how can i fix that bug or how i'm grateful to do what i love, watch movies, animes, animations, and of course, listen to lo-fi beats on Spotify. **
 
 
   <img align="right" alt="GIF" src="https://github.com/RickZzDev/RickZzDev/blob/main/giphy.gif?raw=true" width="500" height="320" />
