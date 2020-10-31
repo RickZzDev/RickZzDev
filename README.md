@@ -11,7 +11,7 @@
     - Battlefield 4 :bomb: <br>
     - Even though i didn't played CyberPunk 2077, i now it will be in my list :robot: <br>
     
-  Besides games and coding, i really loves to travell, know new places, watch the sea and think how can i fix that bug or how i'm grateful to do what i love, watch movies, animes, animations, and of course, listen to lo-fi beats on Spotify.
+  Besides games, coding and my girlfriend, i really loves to travell, know new places, watch the sea and think how can i fix that bug or how i'm grateful to do what i love, watch movies, animes, animations, and of course, listen to lo-fi beats on Spotify.
 
 
   <img align="right" alt="GIF" src="https://github.com/RickZzDev/RickZzDev/blob/main/giphy.gif?raw=true" width="500" height="320" />
