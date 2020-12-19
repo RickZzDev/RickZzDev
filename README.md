@@ -22,7 +22,7 @@
 
 - 🤝 I’m looking for help with [WeatherApp](https://github.com/RickZzDev/WeatherApp)
 
-- 👨‍💻 All of my projects are available in [https://github.com/RickZzDev?tab=repositories](https://github.com/RickZzDev?tab=repositories)
+- 👨‍💻 All of my projects are available on [https://github.com/RickZzDev?tab=repositories](https://github.com/RickZzDev?tab=repositories)
 
 - 💬 Ask me about **Flutter, Dart, POO, Coding, JS, Python, Django, and of course Marvel&DC**
 
