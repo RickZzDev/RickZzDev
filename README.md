@@ -3,22 +3,22 @@
   I'm focused in app development📱.
   
   
-  I love coding and i'm travelling by this new universe since 2019, now i'm working and hard studying Dart & Flutter, this incredible tech created by the mother Google.
+  I love coding and I'm travelling by this new universe since 2019, now I'm working and hard studying Dart & Flutter, this incredible tech created by the mother Google.
 
-  I also loves to play games, but now i'm a little rusty, my favorite games of all times are:<br>
+  Also I loves to play games, but now I'm a little rusty, my favorite games of all times are:<br>
     - The witcher 3 :wolf: <br>
     - CS:GO :gun: <br>
     - Battlefield 4 :bomb: <br>
-    - Even though i didn't played CyberPunk 2077, i now it will be in my list :robot: <br>
+    - Even though I didn't played CyberPunk 2077, I now it will be in my list :robot: <br>
     
-  Besides games, coding and my girlfriend, i really loves to travell, know new places, watch the sea and think how can i fix that bug or how i'm grateful to do what i love, watch movies, animes, animations, and of course, listen to lo-fi beats on Spotify.
+  Besides games, coding and my girlfriend, I really loves to travell, know new places, watch the sea and think how can I fix that bug or how I'm grateful to do what I love, watch movies, animes, animations, and of course, listen to lo-fi beats on Spotify.
 
 
   <img align="right" alt="GIF" src="https://github.com/RickZzDev/RickZzDev/blob/main/giphy.gif?raw=true" width="500" height="320" />
 
 - 🔭 I’m currently working on [Torcida Gamer](https://play.google.com/store/apps/details?id=br.com.torcidagamer)
 
-- 🌱 I’m currently learning **All that i can in the mobile universe, having the flutter as the center.**
+- 🌱 I’m currently learning **All that I can in the mobile universe, having the flutter as the center.**
 
 - 🤝 I’m looking for help with [WeatherApp](https://github.com/RickZzDev/WeatherApp)
 
