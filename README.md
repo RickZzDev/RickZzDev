@@ -9,7 +9,7 @@
     - The witcher 3 :wolf: <br>
     - CS:GO :gun: <br>
     - Battlefield 4 :bomb: <br>
-    - Even though I didn't played CyberPunk 2077, I now it will be in my list. Obs: I wrote this in the past and i'm back to say it was one of my biggest deceptions in my hole life :( :robot: <br>
+    - Even though I didn't played CyberPunk 2077, I know it will be in my list. Obs: I wrote this in the past and i'm back to say it was one of my biggest deceptions in my hole life :( :robot: <br>
     
   Besides games, coding and my girlfriend, I really loves to travell, know new places, watch the sea and think how can I fix that bug or how I'm grateful to do what I love, watch movies, animes, animations, and of course, listen to lo-fi beats on Spotify.
 
